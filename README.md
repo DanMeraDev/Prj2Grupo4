@@ -1,4 +1,4 @@
-JAVA PROYECT
+JAVA PROJECT
 
 Grupo4
 
