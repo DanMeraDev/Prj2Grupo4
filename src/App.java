@@ -28,14 +28,14 @@ public class App {
        }while(jhCaracter.length()!=1);
        jhchar=jhCaracter.charAt(0);
 
-       System.out.println("\n------------------------------------SERIES NUMERICAS-----------------------------------------");
+       System.out.println("\n-----------------------------------------SERIES NUMERICAS-------------------------------------------------");
        jHn.jhSN1(jhTamano); 
        jHn.jhSN2(jhTamano); 
        jHn.jhSN3(jhTamano);
-       System.out.println("\n------------------------------------SERIES DE CARACTERES-----------------------------------------");
+       System.out.println("\n--------------------------------------------SERIES DE CARACTERES--------------------------------------------------");
        jHn.jhSC1(jhTamano, jhchar);
        jHn.jhSC2(jhTamano, jhchar);
-       System.out.println("\n------------------------------------FIGURAS-----------------------------------------");
+       System.out.println("\n------------------------------------------------FIGURAS-----------------------------------------------------------");
        jHn.jhF1(jhTamano, jhchar);
        jHn.jhF2(jhTamano, jhchar);
        jHn.jhF3(jhTamano, jhchar);
